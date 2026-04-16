@@ -54,6 +54,10 @@ header {
   color: black;
 }
 
+main {
+  min-height: calc(100vh - 230px);
+}
+
 h1,
 h2,
 h3,
