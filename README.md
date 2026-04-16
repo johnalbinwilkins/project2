@@ -1,7 +1,7 @@
 # Project 2
 
 This website is available at:
-https://MY_USER_NAME.github.io/project2
+https://johnalbinwilkins.github.io/project2
 
 **Before working on this project:**
 
